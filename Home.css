@@ -1,0 +1,29 @@
+.middle-container{
+     margin: 0;
+    text-align: center;
+    font-family: 'BIZ UDMincho', serif;
+    padding: 3% 15%;
+
+
+
+
+  }
+
+h3 {
+  font-family: 'Cormorant Garamond', serif;
+
+}
+h1{
+font-family: 'Lilita One', cursive;
+}
+.navbar-brand{
+  font-family: 'Montez', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar-item{
+  padding: 0 10px;
+}
+.nav-link{
+  font-family: 'Monda', sans-serif;
+}
